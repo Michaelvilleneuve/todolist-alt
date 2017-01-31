@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+.idea/
+
+/todolist-service/todolist-service.iml
+/todolist.iml
+/todolist-presentation/todolist-presentation.iml
+/todolist-persistence/todolist-persistence.iml
+/**/*.log
